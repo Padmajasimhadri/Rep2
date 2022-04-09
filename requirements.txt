@@ -1,1 +1,6 @@
-Hello this a Finanacial Application we r creating and below r the requirements/stories of the project
+Hello this a Finanacial Application we r creating and below r the requirements/stories of the project.
+
+Chains
+Stores
+Departments
+Employees
